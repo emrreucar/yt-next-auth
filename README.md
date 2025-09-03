@@ -2,7 +2,7 @@
 
 This project demonstrates a modern authentication setup using:
 
-- **Next.js 14 App Router**
+- **Next.js 15 App Router**
 - **NextAuth.js** (JWT session strategy)
 - **Prisma ORM**
 - **MongoDB**
@@ -26,8 +26,8 @@ This project demonstrates a modern authentication setup using:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-auth-project.git
-cd your-auth-project
+git clone https://github.com/emrreucar/yt-next-auth.git
+cd yt-next-auth
 ```
 
 ### 2. Install Dependencies
@@ -68,6 +68,6 @@ Generate Prisma Client:
 npm install -D prisma
 npx prisma init
 
-// Push the schema to MongoDB
+# Push the schema to MongoDB
 npx prisma db push
 ```
