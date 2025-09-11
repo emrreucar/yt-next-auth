@@ -1,3 +1,6 @@
+<img width="2552" height="1227" alt="image" src="https://github.com/user-attachments/assets/c5543913-276d-4277-8909-f50bba17fa21" />
+
+
 # 🔐 Next.js Authentication with NextAuth.js + Prisma + MongoDB
 
 This project demonstrates a modern authentication setup using:
